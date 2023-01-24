@@ -173,7 +173,7 @@ yorum satırı
 ```
 
 
-# -Çizgi Ekleme
+# -Çizgi Ekleme-
 3 adet kısa çizgi kullanarak yapabiliriz.
 ```
 --- 
